@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "things-mcp": {
+      "command": "python",
+      "args": ["things_mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "."
+      }
+    }
+  }
+}
