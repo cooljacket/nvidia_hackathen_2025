@@ -8,7 +8,7 @@ NEMO_DIR=$(pwd)
 PROJECT_ROOT=$(dirname "$NEMO_DIR")
 
 # 设置环境变量
-export TAVILY_API_KEY=Your API Key
+export TAVILY_API_KEY=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
 
 # 激活Python虚拟环境
 source .venv/bin/activate
